@@ -6,6 +6,9 @@ I uppgiften har ramverket [Anax flat](https://github.com/canax/anax-fla) använt
 
 ![alt text](img/anax.png)
 
-Skapad av [magw14](magw14@student.bth.se).
+Mitt [Github-repo](https://github.com/magw14)
 
-Länk till mitt [GitHub-repot](https://github.com/magw14)
+Temat på webbsida finns att hämta här
+[anax-flat-theme](https://github.com/magw14/anax-flat-theme)
+<hr>
+/Skapad av [magw14](magw14@student.bth.se).
